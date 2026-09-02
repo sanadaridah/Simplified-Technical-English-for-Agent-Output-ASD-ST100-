@@ -18,7 +18,7 @@ STE is the controlled language the aerospace and defence industry uses so that a
 | `references/worked-example.md` | An engineer's installation paragraph rewritten in STE, with the rule behind each change. |
 | `scripts/ste_check.py` | Checker and dictionary lookup. Python 3, no dependencies. |
 | `scripts/dictionary.json` | The dictionary as data, used by the checker. |
-| `glossary/voltsafe-glossary.txt` | Our agreed technical nouns and verbs. Add to it as products and parts get names. |
+| `glossary/youre_own_glorssary.txt` | Our agreed technical nouns and verbs. Add to it as products and parts get names. |
 | `tools/build_dictionary.py` | Rebuilds the dictionary and reference files from the official PDF (needed only for a new Issue of the standard). |
 | `evals/` | Three test prompts and a grader, used to measure the skill against Claude without it. |
 | `docs/quick-reference.md` | One-page cheat sheet for humans. |
