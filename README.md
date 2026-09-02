@@ -1,4 +1,4 @@
-# VoltSafe STE — ASD-STE100 Simplified Technical English skill for AI agents
+# STE — ASD-STE100 Simplified Technical English skill for AI agents
 
 A Claude skill (also usable by other agents) that writes and reviews technical documentation in **ASD-STE100 Simplified Technical English, Issue 9 (January 2025)**: manuals, installation and operating instructions, maintenance procedures, safety warnings and cautions, datasheets, troubleshooting guides, quick-start cards.
 
