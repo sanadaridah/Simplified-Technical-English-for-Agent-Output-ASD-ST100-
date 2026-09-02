@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 thedirtyengineer
+Copyright (c) 2026 Sanad Aridah
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,31 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+NOTICE — what the MIT licence covers and what it does not
+
+The MIT licence above applies to the original work in this repository: the
+skill instructions (SKILL.md), the checker and build scripts (scripts/,
+tools/), the evaluation harness (evals/), the glossary, and this README.
+
+It does NOT apply to content derived from ASD-STE100 Simplified Technical
+English, Issue 9 (January 2025), which is the copyright of the Aerospace,
+Security and Defence Industries Association of Europe (ASD) and is an EU
+registered trade mark. That content is:
+
+  scripts/dictionary.json
+  references/approved-words.md
+  references/non-approved-words.md
+  references/writing-rules.md            (rule text and examples)
+  references/technical-noun-categories.md (category lists and examples)
+
+ASD's copyright notice permits reproduction only with the written authority
+of an officer of ASD, or by the organisations listed in the standard's
+"Special usage rights". VoltSafe obtained its copy of the standard from ASD
+through the official request process and holds this material for its own
+internal use. This repository is private for that reason. Do not publish,
+fork publicly, or share these files outside VoltSafe. Anyone who needs the
+standard itself can request it free of charge at
+https://www.asd-ste100.org/STE_downloads.html.

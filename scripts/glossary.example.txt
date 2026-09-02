@@ -1,0 +1,6 @@
+# Project glossary — technical nouns and verbs accepted under Rules 1.5 / 1.12
+# One term per line. Plurals are accepted automatically. Lines starting with # are ignored.
+# Replace these examples with the terms for your product.
+breaker
+terminal block
+firmware
