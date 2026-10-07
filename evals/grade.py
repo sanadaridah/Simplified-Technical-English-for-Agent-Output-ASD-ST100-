@@ -76,7 +76,7 @@ polarity
 resistor
 bus
 device
-VoltSafe
+manufacturer
 lock
 lockout
 green
